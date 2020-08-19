@@ -1,0 +1,2 @@
+# getblizzard
+Blizzard Jailbreak Page
